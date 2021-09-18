@@ -5,4 +5,4 @@ os = "macos"
 
     [[libportaudio.download]]
     sha256 = "70f4d2ceaaf7c402d53a24dc3fdb8a4a633c240634bc738088ee3726c93c70e7"
-    url = "https://github.com/local/releases/download/libportaudio-v19.7.0+0/libportaudio.v19.7.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/anandijain/libportaudio_jll.jl/releases/download/libportaudio-v19.7.0+0/libportaudio.v19.7.0.aarch64-apple-darwin.tar.gz"
