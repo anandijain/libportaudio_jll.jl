@@ -4,5 +4,5 @@ git-tree-sha1 = "72fffb53fd4698c40fbf3e5a117e64c6ff34381b"
 os = "macos"
 
     [[libportaudio.download]]
-    sha256 = "70f4d2ceaaf7c402d53a24dc3fdb8a4a633c240634bc738088ee3726c93c70e7"
+    sha256 = "49fa60cae701881f373f28149ef9ff8e934e2105082acf3e7d9b6a017a512ad5"
     url = "https://github.com/anandijain/libportaudio_jll.jl/releases/download/libportaudio-v19.7.0+0/libportaudio.v19.7.0.aarch64-apple-darwin.tar.gz"
